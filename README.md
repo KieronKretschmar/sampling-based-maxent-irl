@@ -1,3 +1,7 @@
+# Disclaimer & Credits
+This repository is an adaptation of the one from Maximilian Luz available on [github](https://github.com/qzed/irl-maxent/blob/master/notebooks/maxent.ipynb).
+Almost all the credit goes to him, except for parts of notebooks/maxent.ipynb (see the beginning of that notebook for more details) and my report SamplingBasedMaxEntIRL.pdf.
+
 # Maximum Entropy Inverse Reinforcement Learning
 
 This is a python implementation of the Maximum Entropy Inverse Reinforcement Learning (MaxEnt IRL) algorithm based on the similarly named paper by Ziebart et al. and the Maximum Causal Entropy Inverse Reinforcement Learning (MaxCausalEnt IRL) algorithm based on his PhD thesis.
