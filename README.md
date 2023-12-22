@@ -1,6 +1,12 @@
+# Sampling-based Maximum Entropy Inverse Reinforcement Learning
+This project investigates inhowfar sampling-based methods can be used to improve MaxEnt IRL by making it applicable to a wider domain of tasks.
+It was conducted by me (Kieron Kretschmar) as part of the course Human-in-the-Loop Machine Learning by Professor Eric Nalisnick at University of Amsterdam 2023.
+
 # Disclaimer & Credits
 This repository is an adaptation of the one from Maximilian Luz available on [github](https://github.com/qzed/irl-maxent/blob/master/notebooks/maxent.ipynb).
-Almost all the credit goes to him, except for parts of notebooks/maxent.ipynb (see the beginning of that notebook for more details) and my report SamplingBasedMaxEntIRL.pdf.
+Almost all the credit goes to him, except for parts of notebooks/maxent.ipynb (see the beginning of that notebook for more details) and my project report SamplingBasedMaxEntIRL.pdf.
+
+Below is the original README provided by Maximilian.
 
 # Maximum Entropy Inverse Reinforcement Learning
 
